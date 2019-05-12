@@ -1,3 +1,5 @@
+#pragma once
+
 #include <pcl/point_cloud.h>
 #include <pcl/octree/octree_pointcloud_changedetector.h>
 
