@@ -1,3 +1,0 @@
-/home/siddhant/Desktop/octreeSubraction/build/CMakeFiles/rebuild_cache.dir
-/home/siddhant/Desktop/octreeSubraction/build/CMakeFiles/octree_change_detection.dir
-/home/siddhant/Desktop/octreeSubraction/build/CMakeFiles/edit_cache.dir
